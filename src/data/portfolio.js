@@ -1,20 +1,20 @@
 export default [
 	{
-		title: 'Terminal Website',
-		imgUrl: '/assets/terminal-website.jpg',
-		stack: ['Unity', 'C#', 'PlasticSCM'],
-		link: 'https://fkcodes.com',
+		title: 'Color Gradient Generator',
+		imgUrl: '/assets/ColorGen.png',
+		stack: ['Html, CSS, JavaScript'],
+		link: 'https://bodzik1.github.io/ColorGradientGen/',
 	},
 	{
-		title: 'Developer Portfolio',
-		imgUrl: '/dev-portfolio.jpg',
-		stack: ['Unity', 'C#', 'PlasticSCM'],
-		link: 'https://thehackershideout.com',
+		title: 'RoboFriends',
+		imgUrl: '/assets/RoboFriends.png',
+		stack: ['React'],
+		link: 'https://bodzik1.github.io/RoboFriends/',
 	},
 	{
-		title: 'AI Nerf Gun',
-		imgUrl: '/assets/ai-nerf-gun.jpg',
-		stack: ['Unity', 'C#', 'PlasticSCM'],
-		link: 'https://youtu.be/A8eegxL82PI',
+		title: 'Landing Page',
+		imgUrl: '/assets/LandingPage.png',
+		stack: ['Html, css'],
+		link: 'https://bodzik1.github.io/Landing-Page/',
 	},
 ];
