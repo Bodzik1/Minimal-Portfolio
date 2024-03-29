@@ -15,9 +15,9 @@ function TimelineItem({ year, title, duration, details }) {
 					<div className="my-1 text-sm font-normal leading-none text-stone-400 dark:text-stone-500">
 						{duration}
 					</div>
-					<p className="my-2 text-base font-normal text-stone-500 dark:text-stone-400">
-						{details}
-					</p>
+				</p>
+				<p className="my-2 text-base font-normal text-stone-500 dark:text-stone-400">
+					{details}
 				</p>
 			</li>
 		</ol>
