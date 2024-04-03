@@ -7,7 +7,7 @@ function Footer() {
 				<div>
 					<div className="flex flex-wrap justify-center gap-2">
 						<a
-							href="https://twitter.com/forrestpknight"
+							href=
 							className="bg-stone-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full"
 						>
 							<svg
@@ -20,7 +20,7 @@ function Footer() {
 							</svg>
 						</a>
 						<a
-							href="https://linkedin.com/in/forrestpknight"
+							href=
 							className="bg-stone-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full"
 						>
 							<svg
@@ -35,7 +35,7 @@ function Footer() {
 							</svg>
 						</a>
 						<a
-							href="https://github.com/forrestknight"
+							href=
 							className="bg-stone-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full"
 						>
 							<svg
