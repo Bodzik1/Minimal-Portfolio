@@ -13,12 +13,12 @@ function Intro() {
 				combination of Unity and C#. This experience ignited a passion for
 				technology that led me to pursue further education in college. Over two
 				years, I delved into the complexities of C++ and honed my skills in
-				object-oriented programming. Although my formal education ended
+				object-oriented programming. Although my formal education came to a halt
 				<br />
-				prematurely, the knowledge and experience I gained became the
-				cornerstone of my career. Today, I leverage my diverse coding background
-				to create innovative solutions and continuously seek out new challenges
-				in the ever-evolving tech landscape.
+				the knowledge and experience I gained became the cornerstone of my career. 
+				Today, I leverage my diverse coding backgroundto create innovative 
+				solutions and continuously seek out new challenges in the ever-evolving 
+				tech landscape.
 			</p>
 		</div>
 	);
