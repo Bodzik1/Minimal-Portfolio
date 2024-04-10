@@ -6,7 +6,7 @@ function Intro() {
 			<h1 className="text-4xl md:text-7xl dark:text-white mb-1 md:mb-3 font-bold">
 				Bogdan Mieldzicz
 			</h1>
-			<p className="text-base md:text-xl mb-3 font-medium">Game Developer</p>
+			<p className="text-base md:text-xl mb-3 font-medium">Game Developer/ Software Developer</p>
 			<p className="text-sm max-w-xl mb-6 font-bold">
 				My journey into the world of coding began with the transformative Summer
 				Youth Employment Program, where I was first introduced to the powerful
