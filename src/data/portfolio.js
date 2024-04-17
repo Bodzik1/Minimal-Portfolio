@@ -12,9 +12,9 @@ export default [
 		link: 'https://bodzik1.github.io/RoboFriends/',
 	},
 	{
-		title: 'Landing Page',
-		imgUrl: './assets/LandingPage.png',
-		stack: ['Html, css'],
-		link: 'https://bodzik1.github.io/Landing-Page/',
+		title: 'My Blog',
+		imgUrl: './assets/medium.png',
+		stack: ['Medium'],
+		link: 'https://medium.com/@bodzik',
 	},
 ];

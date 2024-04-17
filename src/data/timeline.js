@@ -1,10 +1,10 @@
 export default [
 	{
 		year: '2024',
-		title: 'My first Game Project',
-		duration: '1 month',
+		title: 'My Blog',
+		duration: '1 day',
 		details:
-			"After taking a few months' break from coding projects to focus on my studies, I found my determination wavering upon my return. The progress felt painstakingly slow compared to the swift pace I experienced while learning through The Odin Project. However, as momentum gradually built, my enjoyment and enthusiasm increased proportionally. The sense of limitless potential returned, reminding me that while life's complexities are undeniable, they also make the journey worthwhile.",
+			"Starting a blog as a developer is such an exciting venture for me. It's a fantastic way to document my growth and share my experiences with a wider audience. As I dive deeper into learning new technologies, overcoming challenges, and celebrating milestones, my blog becomes a living diary of my progress. It's not just about showcasing my successes; it's also about reflecting on the valuable lessons I've learned from setbacks. Over time it's a testament to the continuous learning journey that is software development, and I'm excited to embark on this adventure.",
 	},
 	{
 		year: '2023',
